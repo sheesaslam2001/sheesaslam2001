@@ -7,12 +7,19 @@ With 8+ years of experience, I specialize in developing enterprise-grade solutio
 🛠 My Expertise:
 
 ✔ Full Stack .NET Development (Web & Desktop)
+
 ✔ Enterprise & ERP Application Development
+
 ✔ Cross-Platform App Development (.NET MAUI, Blazor)
+
 ✔ RESTful APIs & Web Services Development
+
 ✔ Database Design, Optimization & Performance Tuning
+
 ✔ UI/UX Design, Web Prototyping & Custom Components
+
 ✔ Application Testing, Debugging & Performance Optimization
+
 ✔ Third-Party Integrations (Payment Gateways, CRM, APIs, etc.)
 
 💻 Technology Stack & Skills:
@@ -20,40 +27,59 @@ With 8+ years of experience, I specialize in developing enterprise-grade solutio
 🔹 Back-end Development:
 
 ✅ .NET Core (6/7/8), ASP.NET MVC, ASP.NET WebForms
+
 ✅ .NET MAUI (Cross-Platform App Development)
+
 ✅ Web APIs, RESTful Services, Microservices
+
 ✅ C#, Dapper, Entity Framework (EF Core), LINQ
+
 ✅ Windows Services, Background Jobs, Hangfire
+
 ✅ OAuth, JWT Authentication, IdentityServer
 
 🎨 Front-end Development:
 
 ✅ Blazor (Server & WebAssembly)
+
 ✅ Angular, React, Vue.js
+
 ✅ TypeScript, JavaScript (ES6+)
+
 ✅ HTML5, CSS3, SCSS, Bootstrap 5, Tailwind CSS
+
 ✅ Telerik, DevExpress, Syncfusion, Kendo UI
 
 📊 Database & Cloud:
 
 ✅ SQL Server, MySQL, PostgreSQL
+
 ✅ Stored Procedures, Triggers, Functions
+
 ✅ MongoDB (NoSQL), Firebase
+
 ✅ Azure, AWS, Google Cloud
 
 📡 Tools & DevOps:
 
 ✅ Git, GitHub, Bitbucket, Azure DevOps
+
 ✅ CI/CD Pipelines, Docker, Kubernetes
+
 ✅ Unit Testing (xUnit, NUnit, Moq)
 
 🚀 Why Work With Me?
 
 ✔ High-Quality & Scalable Solutions – I write clean, efficient, and maintainable code following best practices.
+
 ✔ Performance-Optimized Applications – I ensure that apps run fast, smooth, and efficiently on all platforms.
+
 ✔ Updated with Latest Technologies – I stay up-to-date with the latest .NET trends and front-end innovations.
+
 ✔ Strong Problem-Solving & Debugging Skills – I can identify, analyze, and fix even the most complex issues.
+
 ✔ Reliable & Communicative – I deliver on time, communicate clearly, and ensure client satisfaction.
+
 ✔ Flexible Engagement Models – Whether it's hourly, fixed-price, or long-term projects, I adapt to your needs.
 
 💬 Let’s Build Something Great Together!
