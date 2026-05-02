@@ -31,17 +31,15 @@ I don't just write code; I build the tools that write it. I am the creator of **
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 
-<div align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sheesaslam2001&show_icons=true&theme=dark&hide_border=false" alt="Shees Stats" />
-  
-  <br/>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheesaslam2001&layout=compact&theme=dark&hide_border=false" alt="Top Langs" />
-</div>
+
+![Shees's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheesaslam2001&show_icons=true&theme=radical)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheesaslam2001&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
