@@ -1,106 +1,52 @@
-Thanks for visiting my profile!
+# 🚀 Senior Software Architect & AI Product Creator
 
-If you're looking for an experienced .NET Developer who can build scalable, high-performance web and desktop applications, you've come to the right place!
-
-With 8+ years of experience, I specialize in developing enterprise-grade solutions using the latest .NET technologies. Whether it’s a complex ERP system, API development, cloud integration, or cross-platform app development, I can provide efficient, maintainable, high-quality solutions tailored to your needs.
-
-🛠 My Expertise:
-
-✔ Full Stack .NET Development (Web & Desktop)
-
-✔ Enterprise & ERP Application Development
-
-✔ Cross-Platform App Development (.NET MAUI, Blazor)
-
-✔ RESTful APIs & Web Services Development
-
-✔ Database Design, Optimization & Performance Tuning
-
-✔ UI/UX Design, Web Prototyping & Custom Components
-
-✔ Application Testing, Debugging & Performance Optimization
-
-✔ Third-Party Integrations (Payment Gateways, CRM, APIs, etc.)
-
-💻 Technology Stack & Skills:
-
-🔹 Back-end Development:
-
-✅ .NET Core (6/7/8), ASP.NET MVC, ASP.NET WebForms
-
-✅ .NET MAUI (Cross-Platform App Development)
-
-✅ Web APIs, RESTful Services, Microservices
-
-✅ C#, Dapper, Entity Framework (EF Core), LINQ
-
-✅ Windows Services, Background Jobs, Hangfire
-
-✅ OAuth, JWT Authentication, IdentityServer
-
-🎨 Front-end Development:
-
-✅ Blazor (Server & WebAssembly)
-
-✅ Angular, React, Vue.js
-
-✅ TypeScript, JavaScript (ES6+)
-
-✅ HTML5, CSS3, SCSS, Bootstrap 5, Tailwind CSS
-
-✅ Telerik, DevExpress, Syncfusion, Kendo UI
-
-📊 Database & Cloud:
-
-✅ SQL Server, MySQL, PostgreSQL
-
-✅ Stored Procedures, Triggers, Functions
-
-✅ MongoDB (NoSQL), Firebase
-
-✅ Azure, AWS, Google Cloud
-
-📡 Tools & DevOps:
-
-✅ Git, GitHub, Bitbucket, Azure DevOps
-
-✅ CI/CD Pipelines, Docker, Kubernetes
-
-✅ Unit Testing (xUnit, NUnit, Moq)
-
-🚀 Why Work With Me?
-
-✔ High-Quality & Scalable Solutions – I write clean, efficient, and maintainable code following best practices.
-
-✔ Performance-Optimized Applications – I ensure that apps run fast, smooth, and efficiently on all platforms.
-
-✔ Updated with Latest Technologies – I stay up-to-date with the latest .NET trends and front-end innovations.
-
-✔ Strong Problem-Solving & Debugging Skills – I can identify, analyze, and fix even the most complex issues.
-
-✔ Reliable & Communicative – I deliver on time, communicate clearly, and ensure client satisfaction.
-
-✔ Flexible Engagement Models – Whether it's hourly, fixed-price, or long-term projects, I adapt to your needs.
-
-💬 Let’s Build Something Great Together!
-
-I'm always open to new and exciting projects. If you're looking for a skilled .NET developer who can bring your ideas to life, let's connect!
-
-📩 Reach out to discuss your project!
-
-
-## 📈 GitHub Stats
-
-![Shees's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheesaslam2001&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheesaslam2001&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🌐 Let's Connect
-
-- 🌍 [Comsoft](https://comsoft.pk)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sheesaslam)
-- 📧 [Email Address](sheesaslam2001@gmail.com)
+I don't just write code; I build the tools that write it. I am the creator of **Devra IDE**, a next-gen AI-powered coding environment. With **8+ years** of experience, I bridge the gap between robust Enterprise .NET systems and the modern AI-driven JavaScript ecosystem.
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or share ideas. Let's build something amazing together! 🚀
+### 🌟 Featured Product: [Devra IDE]
+**The AI Code Writer:** A high-performance IDE similar to Cursor/Antigravity, built to automate complex coding workflows using LLMs.
+*   *Tech:* Advanced AI orchestration, specialized IDE architecture, and seamless developer experience.
+
+---
+
+### 🛠️ Technical Powerhouse
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **AI & Automation** | **Devra IDE**, AI Bot Creation, **n8n Workflows**, LLM Integration |
+| **Full-Stack (Modern)** | **Next.js**, React.js (Vite), Node.js, TypeScript |
+| **Enterprise Stack** | **.NET 8**, C#, ASP.NET Core, Blazor, .NET MAUI |
+| **Database & Auth** | **Supabase**, PostgreSQL, MongoDB, SQL Server |
+| **Infrastructure** | **Ubuntu VPS**, Hostinger VPS, Vercel, Docker, CI/CD |
+
+---
+
+### 🚀 Key Strengths & Recent Work
+
+*   **AI Agent Workflows:** Expert in building autonomous bots and automating business processes using **n8n**.
+*   **Infrastructure Management:** Deploying and managing high-availability apps on **Ubuntu VPS** and Vercel.
+*   **Database Architect:** Proficient in both relational (Postgres/SQL Server) and BaaS (**Supabase**) solutions.
+*   **Cross-Platform Mastery:** Building everything from web-scale Next.js apps to native mobile apps with .NET MAUI.
+
+---
+
+### 📊 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sheesaslam2001&show_icons=true&theme=radical&rank_icon=github" alt="Shees's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheesaslam2001&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 🤝 Let's Collaborate
+
+Whether you need a custom AI agent, a scalable enterprise system, or a high-performance Next.js platform, I’ve got the tools and the talent.
+
+*   🌍 **Portfolio:** [Devsyncs.com](https://devsyncs.com)
+*   💼 **LinkedIn:** [Shees Aslam](https://www.linkedin.com/in/sheesaslam)
+*   📧 **Email:** [sheesaslam2001@gmail.com](mailto:sheesaslam2001@gmail.com)
+
+---
