@@ -33,11 +33,11 @@ I don't just write code; I build the tools that write it. I am the creator of **
 
 ### 📊 GitHub Insights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheesaslam2001&show_icons=true&theme=radical&rank_icon=github" alt="Shees's Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sheesaslam2001&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheesaslam2001&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+</p>
 
 ---
 
